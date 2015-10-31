@@ -1,0 +1,7 @@
+tasks:
+    whatever:
+        rss: http://showrss.info/feeds/221.rss
+        series:
+            - Modern Family
+        download: /tmp
+
